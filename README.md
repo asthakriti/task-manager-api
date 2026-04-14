@@ -1,12 +1,6 @@
 # Task Manager API
 
-A simple RESTful Task Manager API built with Node.js and Express.js.  
-This project was created as part of an assignment and uses in-memory storage (no database).
-
----
-
-## Features
-
+A simple RESTful Task Manager API built with **Node.js** and **Express.js**
 - Create a task
 - Get all tasks
 - Get a task by ID
